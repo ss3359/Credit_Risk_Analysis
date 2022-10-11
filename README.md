@@ -12,3 +12,19 @@ Here are the results for the six models that is applied to predict credit risk.
 
 ## Figure Two (SMOTE Oversampling)
 <img width="1208" alt="Screen Shot 2022-10-11 at 10 31 05 AM" src="https://user-images.githubusercontent.com/104328106/195148542-ba8517aa-c88e-4eaf-b023-773b88295ad6.png">
+
+## Figure Three (Undersampling)
+<img width="1232" alt="Screen Shot 2022-10-11 at 10 40 18 AM" src="https://user-images.githubusercontent.com/104328106/195150382-cb491cc8-becf-4a64-a16a-07795a07bb44.png">
+
+
+## Figure Four (Combination on Over anf Under Sampling)
+<img width="1164" alt="Screen Shot 2022-10-11 at 10 40 32 AM" src="https://user-images.githubusercontent.com/104328106/195150432-60d78060-5def-4d27-abb5-e063a6bb54dd.png">
+
+
+## Figure Five (Balanced Random Forest Classifier)
+<img width="1138" alt="Screen Shot 2022-10-11 at 10 40 53 AM" src="https://user-images.githubusercontent.com/104328106/195150519-3c157e1e-0b40-4621-88f7-1dbdb0e3e742.png">
+
+## Figure Six (Easy Ensemble AdaBoost Classifier)
+<img width="1191" alt="Screen Shot 2022-10-11 at 10 41 09 AM" src="https://user-images.githubusercontent.com/104328106/195150571-df37c1eb-e40f-432a-9313-388d557d1b8c.png">
+
+
