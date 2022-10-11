@@ -17,7 +17,7 @@ Here are the results for the six models that is applied to predict credit risk.
 <img width="1232" alt="Screen Shot 2022-10-11 at 10 40 18 AM" src="https://user-images.githubusercontent.com/104328106/195150382-cb491cc8-becf-4a64-a16a-07795a07bb44.png">
 
 
-## Figure Four (Combination on Over anf Under Sampling)
+## Figure Four (Combination on Over and Undersampling)
 <img width="1164" alt="Screen Shot 2022-10-11 at 10 40 32 AM" src="https://user-images.githubusercontent.com/104328106/195150432-60d78060-5def-4d27-abb5-e063a6bb54dd.png">
 
 
